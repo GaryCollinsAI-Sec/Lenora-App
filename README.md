@@ -139,6 +139,26 @@ Features and architecture may evolve as development progresses.
 7. Prioritize user privacy, safety, and trust.
 
 ---
+<img width="805" height="749" alt="Screenshot From 2026-11-19 19-33-51" src="https://github.com/user-attachments/assets/a8133a05-651d-448a-b663-18dd173d0d51" />
+
+<img width="805" height="749" alt="Screenshot From 2026-11-19 19-33-59" src="https://github.com/user-attachments/assets/424852a9-7d84-4298-a85e-8f59f01767af" />
+
+
+<img width="805" height="749" alt="Screenshot From 2026-11-19 19-34-05" src="https://github.com/user-attachments/assets/7ac6bd83-5c65-4dc6-a9e1-e64e70281f56" />
+
+
+
+
+<img width="805" height="749" alt="Screenshot From 2026-11-19 19-34-10" src="https://github.com/user-attachments/assets/87e8ed0b-de40-4f54-9ff9-167c69b523d1" />
+
+
+<img width="805" height="749" alt="Screenshot From 2026-11-19 19-34-15" src="https://github.com/user-attachments/assets/4d2cde66-a18c-4744-b8ac-36829bf1cf4b" />
+
+
+
+
+---
+
 
 <p align="center">
   <strong>Lenora — Meaningful Connections, Thoughtfully Made.</strong>
